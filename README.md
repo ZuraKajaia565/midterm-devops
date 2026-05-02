@@ -184,6 +184,8 @@ flowchart LR
 
 ![Deploy success](docs/screenshots/deploy-success.png)
 
+![Rollback success](docs/screenshots/rollback-success.png)
+
 ![Running app](docs/screenshots/running-app.png)
 
 ### Monitoring logs
