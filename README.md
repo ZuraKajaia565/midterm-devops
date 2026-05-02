@@ -35,7 +35,7 @@ When setup/deployment scripts run, they also create a local `var/` folder. This 
 First clone the repo and enter the folder:
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/ZuraKajaia565/midterm-devops.git
 cd midterm-project
 ```
 
