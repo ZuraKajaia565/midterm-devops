@@ -184,7 +184,11 @@ flowchart LR
 
 ![Deploy success](docs/screenshots/deploy-success.png)
 
+### Rollback
+
 ![Rollback success](docs/screenshots/rollback-success.png)
+
+### Running app
 
 ![Running app](docs/screenshots/running-app.png)
 
