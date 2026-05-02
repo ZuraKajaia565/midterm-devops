@@ -1,0 +1,1 @@
+"""Midterm web application package."""
